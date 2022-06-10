@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **CoderSudaWuda/CoderSudaWuda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Hi there 👋
+I'm Altanis, a 13 year old loser who somehow knows how to code.
+
+he/him
+JavaScript Backend Developer, Game Reverse Engineer.
+Working on [a chat-based Mafia game, a game of psychological deception and critical thinking](https://github.com/CoderSudaWuda/mafia-backend).
+
+<img 
+  align="center" 
+  src="https://github-readme-stats.vercel.app/api?username=CoderSudaWuda&show_icons=true&theme=cobalt&count_private=true" 
+  alt="account stats"
+  />
+<img 
+  align="center" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderSudaWuda&layout=compact&theme=cobalt&langs_count=2" 
+  alt="top languages" />
