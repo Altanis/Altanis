@@ -14,10 +14,12 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋
-I'm Altanis, a 13 year old loser who somehow knows how to code.
+I'm Altanis, a loser who somehow knows how to code.
 
 he/him
+
 JavaScript Backend Developer, Game Reverse Engineer.
+
 Working on [a chat-based Mafia game, a game of psychological deception and critical thinking](https://github.com/CoderSudaWuda/mafia-backend).
 
 <img 
