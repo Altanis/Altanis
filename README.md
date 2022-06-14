@@ -18,7 +18,8 @@ I'm Altanis, a loser who somehow knows how to code.
 
 - he/him
 - JavaScript Backend Developer, Game Reverse Engineer.
-- Working on [a chat-based Mafia game](https://github.com/CoderSudaWuda/mafia-backend), a game of psychological deception and critical thinking.
+- [PAUSED] Working on [a chat-based Mafia game](https://github.com/CoderSudaWuda/mafia-backend), a game of psychological deception and critical thinking.
+- [CURRENT] Working on [an extended version of Wordle](https://github.com/CoderSudaWuda/wordle), including features such as hints and 1v1s.
 
 <img 
   align="center" 
