@@ -18,8 +18,6 @@ I'm Altanis, a loser who somehow knows how to code.
 
 - he/him
 - JavaScript Backend Developer, Game Reverse Engineer.
-- [ABANDONED] Working on [a chat-based Mafia game](https://github.com/CoderSudaWuda/mafia-backend), a game of psychological deception and critical thinking.
-- [FINISHED] Working on [an extended version of Wordle](https://github.com/CoderSudaWuda/wordle), including features such as hints and 1v1s.
 - [CURRENT] Working on bugfixes and minor content updates on [Stratums.io](https://stratums.io), a game which resembles MooMoo but has lots of different features and has active developers. Repo is private.
 - [IDLE] Working on a Discord API Wrapper.
 - [CURRENT] Working on a Discord Terminal Interface.
