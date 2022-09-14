@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋
-I'm Altanis, a rising freshman who somehow knows how to code.
+I'm Altanis, a freshman who somehow knows how to code.
 
 - he/him
 - JavaScript Backend Developer, Game Reverse Engineer.
