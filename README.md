@@ -14,14 +14,21 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋
-I'm Altanis, a freshman who somehow knows how to code.
+I'm Altanis, a freshman who has a passion to code.
 
 - he/him
-- JavaScript Backend Developer, Game Reverse Engineer.
-- [CURRENT] Working on bugfixes and minor content updates on [Stratums.io](https://stratums.io), a game which resembles MooMoo but has lots of different features and has active developers. Repo is private.
-- [CURRENT] A tick-based game called Digturd.io, has similarities to Digdig.io.
-- [TEMPORARY BREAK] Working on a Discord API Wrapper.
-- [TEMPORARY BREAK] Working on a Discord Terminal Interface.
+- Game Developer, enjoys to build backends. Occasionally reverse engineers games for fun.
+- Fluent with JavaScript, familiar with Python and most OOP languages.
+
+## Projects
+### Current Projects 
+- [CURRENT] Developer of [Stratums.io](https://stratums.io), a clone of MooMoo but with active developers and updates! Repository is private.
+- [CURRENT] Developing a game called [DiepShowdown](https://github.com/CoderSudaWuda/DiepShowdown), clone of PokemonShowdown but implements Diep.io Mechanics.
+### Past Completed Projects
+- Arras.io LB Bot, reverse engineered packet structure of Arras.io to fake being a client. Retreived all scoreboards of every server in an interval of 5 minutes, and formatted them into a pretty embed using Discord.js. Received help from [ABC](https://github.com/ABCxFF).
+- Diep.io LB Bot, same nature as Arras.io LB Bot but much harder. Co-developed with [Bismuth](https://github.com/fractallized), help received from [ABC](https://github.com/ABCxFF), [Shadam](https://github.com/supahero1), and [diep7444](https://github.com/diepiodiscord).
+- Arras.io Scraper, a dump of a week's worth of data collection from every Arras.io server. Only possible with [ABC](https://github.com/ABCxFF) and [Bird](https://github.com/lolbird). [Repo](https://github.com/ABCxFF/db).
+- Schem bot, a bot made in Discord.js which automatically made sandbox party links upon requests by faking being a client. Received help from [Shadam](https://github.com/supahero1).
 
 Reach me at Altanis#8593 on Discord!
 
