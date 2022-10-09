@@ -34,10 +34,10 @@ Reach me at Altanis#8593 on Discord!
 
 <img 
   align="center" 
-  src="https://github-readme-stats.vercel.app/api?username=CoderSudaWuda&show_icons=true&theme=cobalt&count_private=true" 
+  src="https://github-readme-stats.vercel.app/api?username=Altanis&show_icons=true&theme=cobalt&count_private=true" 
   alt="account stats"
   />
 <img 
   align="center" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderSudaWuda&layout=compact&theme=cobalt&langs_count=2" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Altanis&layout=compact&theme=cobalt&langs_count=2" 
   alt="top languages" />
