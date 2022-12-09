@@ -18,7 +18,7 @@ I'm Altanis, a freshman who has a passion to code.
 
 - he/him
 - Game Developer, enjoys to build backends. Occasionally reverse engineers games for fun.
-- Fluent with JavaScript, familiar with Python/Java, learning C++/C
+- Fluent with JavaScript, familiar with Python/Java, learning C/C++
 
 ## Projects
 ### Current Projects 
