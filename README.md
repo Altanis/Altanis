@@ -30,7 +30,7 @@ I'm Altanis, a freshman who has a passion to code.
 - Arras.io Scraper, a dump of a week's worth of data collection from every Arras.io server. Only possible with [ABC](https://github.com/ABCxFF) and [Bird](https://github.com/lolbird). [Repo](https://github.com/ABCxFF/db).
 - Schem bot, a bot made in Discord.js which automatically made sandbox party links upon requests by faking being a client. Received help from [Shadam](https://github.com/supahero1).
 
-Reach me at Altanis#2670 Discord!
+Reach me at Altanis#0129 Discord!
 
 <img 
   align="center" 
