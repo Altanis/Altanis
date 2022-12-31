@@ -18,12 +18,12 @@ I'm Altanis, a freshman who has a passion to code.
 
 - he/him
 - Game Developer, enjoys to build backends. Occasionally reverse engineers games for fun.
-- Fluent with JavaScript, familiar with Python/Java, learning C/C++
+- Fluent with JavaScript, familiar with Python/Java, learning C/C++.
 
 ## Projects
 ### Current Projects 
 - [CURRENT] Developer of [Stratums.io](https://stratums.io), a clone of MooMoo but with active developers and updates! Repository is private.
-- [CURRENT] Developing a game called [DiepShowdown](https://github.com/CoderSudaWuda/DiepShowdown), clone of PokemonShowdown but implements Diep.io Mechanics.
+- [CURRENT] Developing a game called [Valiant.io](https://github.com/Altanis/valiant.io), a game revolving around Soul Knight mechanics.
 ### Past Completed Projects
 - Arras.io LB Bot, reverse engineered packet structure of Arras.io to fake being a client. Retreived all scoreboards of every server in an interval of 5 minutes, and formatted them into a pretty embed using Discord.js. Received help from [ABC](https://github.com/ABCxFF).
 - Diep.io LB Bot, same nature as Arras.io LB Bot but much harder. Co-developed with [Bismuth](https://github.com/fractallized), help received from [ABC](https://github.com/ABCxFF), [Shadam](https://github.com/supahero1), and [diep7444](https://github.com/diepiodiscord).
