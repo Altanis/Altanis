@@ -20,15 +20,7 @@ I'm Altanis, a freshman who has a passion to code.
 - Game Developer, enjoys to build backends. Occasionally reverse engineers games for fun.
 - Fluent with JavaScript, familiar with Python/Java, learning C/C++.
 
-## Projects
-### Current Projects 
-- [CURRENT] Developer of [Stratums.io](https://stratums.io), a clone of MooMoo but with active developers and updates! Repository is private.
-- [CURRENT] Developing a game called [Valiant.io](https://github.com/Altanis/valiant.io), a game revolving around Soul Knight mechanics.
-### Past Completed Projects
-- Arras.io LB Bot, reverse engineered packet structure of Arras.io to fake being a client. Retreived all scoreboards of every server in an interval of 5 minutes, and formatted them into a pretty embed using Discord.js. Received help from [ABC](https://github.com/ABCxFF).
-- Diep.io LB Bot, same nature as Arras.io LB Bot but much harder. Co-developed with [Bismuth](https://github.com/fractallized), help received from [ABC](https://github.com/ABCxFF), [Shadam](https://github.com/supahero1), and [diep7444](https://github.com/diepiodiscord).
-- Arras.io Scraper, a dump of a week's worth of data collection from every Arras.io server. Only possible with [ABC](https://github.com/ABCxFF) and [Bird](https://github.com/lolbird). [Repo](https://github.com/ABCxFF/db).
-- Schem bot, a bot made in Discord.js which automatically made sandbox party links upon requests by faking being a client. Received help from [Shadam](https://github.com/supahero1).
+For a brief overview of what I do, visit my [website](https://altanis.vercel.app)!
 
 Reach me at Altanis#0129 Discord!
 

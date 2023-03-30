@@ -42,14 +42,14 @@ export default function Stratums() {
                 <div className="px-0 p-4">
                     <FolderHierarchy folders={folders} theme={{theme, hoverBackgroundTheme}} />
                 </div>
-                <div>
-                    <h1 className="inline text-lg font-bold">Source Code:</h1>
-                    <h2 className="inline px-2 text-lg">The source code is available on <a href="https://github.com/Altanis/valiant.io" className="text-blue-400 underline">GitHub</a>.</h2>
+                <div class="text-xs sm:text-lg">
+                    <h1 className="inline font-bold">Source Code:</h1>
+                    <h2 className="inline px-2">The source code is available on <a href="https://github.com/Altanis/valiant.io" className="text-blue-400 underline">GitHub</a>.</h2>
                     
                     <br />
 
-                    <h1 className="inline text-lg font-bold">Extended Description:</h1>
-                    <h2 className="inline px-2 text-lg">
+                    <h1 className="inline font-bold">Extended Description:</h1>
+                    <h2 className="inline px-2">
                         Valiant is a game currently online and <a href="https://valiant.rivet.game" className="text-blue-400 underline">available</a>, with courtesy of Rivet and its services.
                         The client was constructed through vanilla HTML/CSS and utilizes the HTMLCanvas2D API for rendering. 
                         The logic of the client was written into a modular TypeScript system, then bundled into a file using Webpack.
@@ -59,7 +59,7 @@ export default function Stratums() {
 
                     <br />
 
-                    <h1 className="inline text-lg font-bold">Images of Game:</h1>
+                    <h1 className="inline font-bold">Images of Game:</h1>
                     <div class="flex flex-row">
                         <img src={VS1} alt="Valiant Screenshot 1" className="w-1/2" />
                         <img src={VS2} alt="Valiant Screenshot 2" className="w-1/2" />

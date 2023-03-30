@@ -15,6 +15,6 @@ export default function Tag({ tag }) {
 
 
     return (
-        <span className={`px-2 py-1 mr-2 text-sm text-white rounded-full ${mappings.get(tag)}`}>{tag}</span>
+        <span className={`px-2 py-1 mr-2 text-xs sm:text-sm text-white rounded-full ${mappings.get(tag)}`}>{tag}</span>
     );
 };

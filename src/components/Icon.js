@@ -45,7 +45,7 @@ export default function Icon({ offset, type, color }) {
     const c = `${color}`;
     return (
         <i
-            className={`py-1 ${type} text-7xl duration-200 ${c} hover:cursor-pointer translate-y-1 absolute`}
+            className={`py-1 ${type} text-5xl xl:text-7xl duration-200 ${c} hover:cursor-pointer translate-y-1 absolute`}
             onMouseEnter={() => setHovering(true)}
             onMouseLeave={() => setTimeout(setHovering(false), 200)}
             style={{ transform: `translate(${position.x}px, ${position.y + (hovering ? hoverOffset : 0)}px)` }}

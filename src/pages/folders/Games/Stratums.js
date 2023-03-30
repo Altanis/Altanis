@@ -44,14 +44,14 @@ export default function Stratums() {
                     <FolderHierarchy folders={folders} theme={{theme, hoverBackgroundTheme}} />
                 </div>
 
-                <div>
-                    <h1 className="inline text-lg font-bold">Source Code:</h1>
-                    <h2 className="inline px-2 text-lg">The source code is private.</h2>
+                <div class="text-xs sm:text-lg">
+                    <h1 className="inline font-bold">Source Code:</h1>
+                    <h2 className="inline px-2 text-md sm:text-lg">The source code is private.</h2>
                     
                     <br />
 
-                    <h1 className="inline text-lg font-bold">Extended Description:</h1>
-                    <h2 className="inline px-2 text-lg">
+                    <h1 className="inline font-bold">Extended Description:</h1>
+                    <h2 className="inline px-2 text-md sm:text-lg">
                         Stratums is a game currently online and available at <a href="https://stratums.io" className="text-blue-400 underline">stratums.io</a>.
                         The client was constructed through vanilla HTML/CSS/JS, and renders the client through the native HTMLCanvas2D API.
                         The server was created in Node.js using our own optimized websocket server absraction layer to communicate with clients. 2D physics are calculated on the server with our own optimized physics engine, as well as an optimized spatial hashgrid for collision detection.
@@ -61,7 +61,7 @@ export default function Stratums() {
 
                     <br />
 
-                    <h1 className="inline text-lg font-bold">Images of Game:</h1>
+                    <h1 className="inline font-bold">Images of Game:</h1>
                     <div class="flex flex-row">
                         <img src={SS2} alt="Stratums Screenshot 2" className="w-1/2" />
                         <img src={SS1} alt="Stratums Screenshot 1" className="w-1/2" />

@@ -44,7 +44,8 @@ export default function Projects() {
 			<div className="transition ease-in-out delay-150 h-full py-32 mx-32">
 				<div className="p-4">
 					<FolderHierarchy folders={folders} theme={{theme, hoverBackgroundTheme}} />
-				</div>
+                </div>
+                <h1 className="px-4 text-9xl">Work in Progress!</h1>
 				<div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-4">
 					<Badge image={Image} size="40" />
 				</div>

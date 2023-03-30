@@ -60,17 +60,17 @@ export default function Miscallaneous() {
 				<div className="p-4">
 					<FolderHierarchy folders={folders} theme={{theme, hoverBackgroundTheme}} />
 				</div>
-				<div className="grid grid-cols-2 gap-16 my-10">
+				<div className="grid grid-cols-1 lg:grid-cols-2 gap-16 my-10">
 					{projects.map((project, idx) => {
 						return (
 							<Link to={project.link}>
-								<div key={idx} className={`px-6 py-4 duration-200 border border-gray-400 ${hoverTheme} hover:cursor-pointer rounded-3xl md:px-4 md:py-3`}>
+								<div key={idx} className={`px-6 py-4 duration-200 border border-gray-400 ${hoverTheme} hover:cursor-pointer rounded-3xl`}>
 									<div className="pb-4 mb-4 border-b-4">
-										<h1 className={`py-2 text-4xl ${theme}`}>
-											<i className={`px-1 mx-5 ${project.type === "folder" ? "fa-solid fa-folder" : "fa-solid fa-file"} text-2xl opacity-50`}></i>
+										<h1 className={`py-2 text-xl sm:text-2xl md:text-4xl ${theme}`}>
+											<i className={`px-1 mx-5 ${project.type === "file" ? "fa-solid fa-file" : "fa-solid fa-folder"} text-lg sm:text-xl md:text-2xl opacity-50`}></i>
 											{project.name}
 										</h1>
-										<h3 className="mb-4 text-lg">
+										<h3 className="mb-4 text-md md:text-lg">
 											{project.year}
 										</h3>
 										<div className="flex flex-wrap mt-2">
@@ -79,7 +79,7 @@ export default function Miscallaneous() {
 											})}
 										</div>
 									</div>
-									<p className="text-lg">{project.desc}</p>
+									<p className="text-xs sm:text-md md:text-lg">{project.desc}</p>
 								</div>
 							</Link>
 						);
