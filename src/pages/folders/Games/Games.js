@@ -47,6 +47,7 @@ export default function Games() {
             year: "March 2022 - June 2022",
             desc: "A backend which could support Mafia games with a variety of roles and mechanics, as well as a sophisticated login/register system.",
             tags: ["nodejs", "websocket", "express", "database"],
+	    link: "https://github.com/Altanis/mafia-backend",
             type: "file"
         }
 	];
