@@ -27,7 +27,7 @@ export default function Projects() {
 			link: "/projects/oss"
         },
 		{
-			name: "Miscallaneous",
+			name: "Miscellaneous",
 			year: "January 2022 - Current",
 			desc: "A collection of projects that I have created that do not fit into the other categories, such as websites and minor projects.",
 			tags: ["nodejs", "typescript", "full-stack"],
