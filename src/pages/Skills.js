@@ -7,10 +7,75 @@ import { borders, colors, hoverBackgrounds, hoverBorders } from "../utils/Colors
 import FolderDefinitions from "../utils/Folders";
 
 import Badge from "../components/Badge";
-import Image from "../static/images/altanis.png"
+
+import JSLogo from "../static/images/javascript.png";
+import TSLogo from "../static/images/typescript.png";
+import PythonLogo from "../static/images/python.png";
+import JavaLogo from "../static/images/java.png";
+import CppLogo from "../static/images/cpp.png";
+import CLogo from "../static/images/c.png";
+import RustLogo from "../static/images/rust.png";
+import GoLogo from "../static/images/golang.png";
 
 export default function Projects() {
-	const skills = [];
+	const skills = [
+		{
+			text: "JavaScript",
+			image: JSLogo,
+			badgeText: "Expert",
+			badgeColor: "bg-green-500",
+			borderColor: "border-yellow-500",
+		},
+		{
+			text: "TypeScript",
+			image: TSLogo,
+			badgeText: "Expert",
+			badgeColor: "bg-green-500",
+			borderColor: "border-blue-500",
+		},
+		{
+			text: "Python",
+			image: PythonLogo,
+			badgeText: "Proficient",
+			badgeColor: "bg-blue-500",
+			borderColor: "border-blue-500",
+		},
+		{
+			text: "Java",
+			image: JavaLogo,
+			badgeText: "Proficient",
+			badgeColor: "bg-blue-500",
+			borderColor: "border-yellow-600",
+		},
+		{
+			text: "C++",
+			image: CppLogo,
+			badgeText: "Proficient",
+			badgeColor: "bg-blue-500",
+			borderColor: "border-blue-500",
+		},
+		{
+			text: "C",
+			image: CLogo,
+			badgeText: "Proficient",
+			badgeColor: "bg-blue-500",
+			borderColor: "border-blue-500",
+		},
+		{
+			text: "Rust",
+			image: RustLogo,
+			badgeText: "Proficient",
+			badgeColor: "bg-blue-500",
+			borderColor: "border-orange-500",
+		},
+		{
+			text: "GoLang",
+			image: GoLogo,
+			badgeText: "Beginner",
+			badgeColor: "bg-red-400",
+			borderColor: "border-sky-500",
+		}
+	];
 
 	const [theme, setTheme] = useState("text-orange-400");
 	const [borderTheme, setBorderTheme] = useState("border-orange-400");
@@ -45,10 +110,20 @@ export default function Projects() {
 				<div className="p-4">
 					<FolderHierarchy folders={folders} theme={{theme, hoverBackgroundTheme}} />
                 </div>
-                <h1 className="px-4 text-9xl">Work in Progress!</h1>
-				<div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-4">
-					<Badge image={Image} size="40" />
-				</div>
+				<h1 className="text-2xl underline px-2">Languages</h1>
+				<div className="grid grid-cols-1 lg:grid-cols-3 gap-16 my-10">
+					{skills.map((skill, idx) => {
+						return (
+							<Badge 
+								text={skill.text}
+								image={skill.image}
+								badgeText={skill.badgeText}
+								badgeColor={skill.badgeColor}
+								borderColor={skill.borderColor}
+							></Badge>
+						);
+					})}
+				</div>					
 			</div>
 		</motion.div>
         </AnimatePresence>
