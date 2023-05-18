@@ -56,7 +56,7 @@ export default function Games() {
 				<div className="grid grid-cols-2 gap-16 my-10">
 					{projects.map((project, idx) => {
 						return (
-							<Link to={project.link} className="flex flex-wrap mt-2">
+							<Link to={project.link}>
 								<div key={idx} className={`px-6 py-4 duration-200 border border-gray-400 ${hoverTheme} hover:cursor-pointer rounded-3xl md:px-4 md:py-3`}>
 									<div className="pb-4 mb-4 border-b-4">
 										<h1 className={`py-2 text-4xl ${theme}`}>
@@ -66,7 +66,7 @@ export default function Games() {
 										<h3 className="mb-4 text-lg">
 											{project.year}
 										</h3>
-										<div className="flex flex-wrap mt-2">
+										<div>
 											{project.tags.map((tag, idx) => {
 												return <Tag tag={tag} />;
 											})}
