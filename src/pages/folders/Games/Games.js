@@ -89,7 +89,7 @@ export default function Games() {
 					{projects.map((project, idx) => {
 						return (
 							<Link to={project.link}>
-								<div key={idx} className={`px-6 py-4 duration-200 border border-gray-400 ${hoverTheme} hover:cursor-pointer rounded-3xl`}>
+								<div key={idx} className={`px-6 py-4 duration-200 border border-gray-400 ${hoverTheme} hover:cursor-pointer rounded-3xl glow`}>
 									<div className="pb-4 mb-4 border-b-4">
 										<h1 className={`py-2 text-xl sm:text-2xl md:text-4xl ${theme}`}>
 											<i className={`px-1 mx-5 ${project.type === "file" ? "fa-solid fa-file" : "fa-solid fa-folder"} text-lg sm:text-xl md:text-2xl opacity-50`}></i>
