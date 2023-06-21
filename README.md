@@ -22,7 +22,7 @@ I'm Altanis, a freshman who has a passion to code.
 
 For a brief overview of what I do, visit my [website](https://altanis.vercel.app)!
 
-Reach me at `_altanis` on Discord!
+Reach me at `altanis_` on Discord!
 
 <!-- <img 
   align="center" 
