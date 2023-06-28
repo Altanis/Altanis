@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋
-I'm Altanis, a freshman who has a passion to code.
+I'm Altanis, a rising sophomore who has a passion to code.
 
 - he/him
 - Game Developer, enjoys to build backends. Occasionally reverse engineers games for fun.
