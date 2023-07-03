@@ -22,7 +22,7 @@ export default function Games() {
 			name: "Spatial Hashgrid",
 			year: "March 2023",
 			desc: "A simple implementation of a spatial hashgrid in C++, Rust, and TypeScript.",
-			tags: ["c++", "rust", "typescript", "physics"],
+			tags: ["c++", "rust", "typescript"],
             type: "file",
             link: "https://github.com/Altanis/spatial-hashgrid"
 		},
@@ -33,6 +33,14 @@ export default function Games() {
 			tags: ["nodejs", "json", "database"],
             type: "file",
             link: "https://github.com/Altanis/jsdatabase.json"
+		},
+		{
+			name: "Kinetics",
+			year: "February 2023 - Current",
+			desc: "A physics engine which can handle all sorts of convex entities. Made in TypeScript, planned for C++ too.",
+			tags: ["typescript", "c++", "physics"],
+			type: "file",
+			link: "https://github.com/Altanis/kinetics",
 		}
 	];
 
