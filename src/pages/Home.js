@@ -66,7 +66,7 @@ export default function IconGroup() {
                         <span className="mr-3 text-left md:mr-5">{text1}</span>
                         <span className="mr-3 text-transparent bg-clip-text bg-gradient-to-r from-red-400 via-green-400 to-blue-600 md:mr-5">{text2}</span>
                     </div>
-                    <p className="text-sm md:text-lg text-center underline decoration-yellow-500 pb-14 w-[486.42px]">I'm a freshman who enjoys programming; specifically game & full stack development, as well as reverse engineering games.</p>
+                    <p className="text-sm md:text-lg text-center underline decoration-yellow-500 pb-14 w-[486.42px]">I'm a rising sophomore who enjoys programming; specifically game & full stack development, as well as reverse engineering games.</p>
                     <div className="flex flex-col text-xl font-bold">
                         <Link
                             to="/projects"

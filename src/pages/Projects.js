@@ -80,8 +80,8 @@ export default function Projects() {
 				<div className="grid grid-cols-1 lg:grid-cols-2 gap-16 my-10">
 					{projects.map((project, idx) => {
 						return (
-							<Link to={project.link} className="flex flex-wrap mt-2">
-								<div key={idx} className={`px-6 py-4 duration-200 border border-gray-400 ${hoverTheme} hover:cursor-pointer rounded-3xl`}>
+							<Link to={project.link}>
+								<div key={idx} className={`px-6 py-4 duration-200 border border-gray-400 ${hoverTheme} hover:cursor-pointer rounded-3xl glow`}>
 									<div className="pb-4 mb-4 border-b-4">
 										<h1 className={`py-2 text-xl sm:text-2xl md:text-4xl ${theme}`}>
 											<i className={`px-1 mx-5 ${project.type === "file" ? "fa-solid fa-file" : "fa-solid fa-folder"} text-lg sm:text-xl md:text-2xl opacity-50`}></i>
@@ -90,7 +90,7 @@ export default function Projects() {
 										<h3 className="mb-4 text-md md:text-lg">
 											{project.year}
 										</h3>
-										<div className="">
+										<div>
 											{project.tags.map((tag, idx) => {
 												return <Tag tag={tag} />;
 											})}

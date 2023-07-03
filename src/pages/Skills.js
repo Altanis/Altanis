@@ -17,7 +17,7 @@ import CLogo from "../static/images/c.png";
 import RustLogo from "../static/images/rust.png";
 import GoLogo from "../static/images/golang.png";
 
-export default function Projects() {
+export default function Skills() {
 	const skills = [
 		{
 			text: "JavaScript",
@@ -25,6 +25,8 @@ export default function Projects() {
 			badgeText: "Expert",
 			badgeColor: "bg-green-500",
 			borderColor: "border-yellow-500",
+			ringBorder: "ring-yellow-500",
+			badgeBorder: "border-green-500",
 		},
 		{
 			text: "TypeScript",
@@ -32,6 +34,8 @@ export default function Projects() {
 			badgeText: "Expert",
 			badgeColor: "bg-green-500",
 			borderColor: "border-blue-500",
+			ringBorder: "ring-blue-500",
+			badgeBorder: "border-green-500",
 		},
 		{
 			text: "Python",
@@ -39,6 +43,8 @@ export default function Projects() {
 			badgeText: "Proficient",
 			badgeColor: "bg-blue-500",
 			borderColor: "border-blue-500",
+			ringBorder: "ring-blue-500",
+			badgeBorder: "border-blue-500",
 		},
 		{
 			text: "Java",
@@ -46,6 +52,8 @@ export default function Projects() {
 			badgeText: "Proficient",
 			badgeColor: "bg-blue-500",
 			borderColor: "border-yellow-600",
+			ringBorder: "ring-yellow-600",
+			badgeBorder: "border-blue-500",
 		},
 		{
 			text: "C++",
@@ -53,6 +61,8 @@ export default function Projects() {
 			badgeText: "Proficient",
 			badgeColor: "bg-blue-500",
 			borderColor: "border-blue-500",
+			ringBorder: "ring-blue-500",
+			badgeBorder: "border-blue-500",
 		},
 		{
 			text: "C",
@@ -60,6 +70,8 @@ export default function Projects() {
 			badgeText: "Proficient",
 			badgeColor: "bg-blue-500",
 			borderColor: "border-blue-500",
+			ringBorder: "ring-blue-500",
+			badgeBorder: "border-blue-500",
 		},
 		{
 			text: "Rust",
@@ -67,13 +79,17 @@ export default function Projects() {
 			badgeText: "Proficient",
 			badgeColor: "bg-blue-500",
 			borderColor: "border-orange-500",
+			ringBorder: "ring-orange-500",
+			badgeBorder: "border-blue-500",
 		},
 		{
 			text: "GoLang",
 			image: GoLogo,
 			badgeText: "Beginner",
-			badgeColor: "bg-red-400",
+			badgeColor: "bg-red-500",
 			borderColor: "border-sky-500",
+			ringBorder: "ring-sky-500",
+			badgeBorder: "border-red-500",
 		}
 	];
 
@@ -120,6 +136,9 @@ export default function Projects() {
 								badgeText={skill.badgeText}
 								badgeColor={skill.badgeColor}
 								borderColor={skill.borderColor}
+								badgeBorder={skill.badgeBorder}
+								ringBorder={skill.ring
+								}
 							></Badge>
 						);
 					})}

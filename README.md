@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋
-I'm Altanis, a freshman who has a passion to code.
+I'm Altanis, a rising sophomore who has a passion to code.
 
 - he/him
 - Game Developer, enjoys to build backends. Occasionally reverse engineers games for fun.
@@ -22,13 +22,13 @@ I'm Altanis, a freshman who has a passion to code.
 
 For a brief overview of what I do, visit my [website](https://altanis.vercel.app)!
 
-Reach me at Altanis#0129 Discord!
+Reach me at `altanis_` on Discord!
 
-<img 
+<!-- <img 
   align="center" 
   src="https://github-readme-stats.vercel.app/api?username=Altanis&show_icons=true&theme=cobalt&count_private=true" 
   alt="account stats"
-  />
+  /> -->
 <img 
   align="center" 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Altanis&layout=compact&theme=cobalt&langs_count=2" 

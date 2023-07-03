@@ -1,13 +1,6 @@
-import { useEffect, useState } from 'react';
-
-const Badge = ({ image, borderColor, badgeText, badgeColor, text }) => {
-	const [badgeBorder, setBadgeBorder] = useState("border-white");
-	useEffect(() => {
-		setBadgeBorder(badgeColor.replace("bg", "border"));
-	}, []);
-
+const Badge = ({ image, borderColor, badgeText, badgeColor, badgeBorder, ringBorder, text }) => {
 	return (
-		<div className={`px-6 py-4 duration-200 border ${borderColor} hover:cursor-pointer rounded-3xl`}>
+		<div className={`px-6 py-4 duration-200 border ${borderColor} hover:cursor-pointer rounded-3xl glow glow`}>
 			<div className="flex justify-center items-center">
 				<div className={`relative rounded-full border-4 ${badgeBorder} w-16 h-16`}>
 					<img src={image} alt="Logo" className="rounded-full object-cover w-full h-full"/>
