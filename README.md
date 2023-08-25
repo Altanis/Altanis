@@ -30,6 +30,7 @@ Reach me at `altanis_` on Discord!
   alt="account stats"
   /> -->
 ![](https://komarev.com/ghpvc/?username=Altanis)
+
 <img 
   align="center" 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Altanis&layout=compact&theme=cobalt&langs_count=2" 
