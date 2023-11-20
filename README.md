@@ -14,11 +14,10 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 👋
-I'm Altanis, a rising sophomore who has a passion to code.
+I'm Altanis, a high school sophomore who has a passion to code.
 
 - he/him
-- Game Developer, enjoys to build backends. Occasionally reverse engineers games for fun.
-- Fluent with JavaScript, familiar with Python/Java, learning C/C++.
+- C and JS programmer, but know pretty much every language :)
 
 For a brief overview of what I do, visit my [website](https://altanis.vercel.app)!
 
