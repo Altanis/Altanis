@@ -23,11 +23,11 @@ For a brief overview of what I do, visit my [website](https://altanis.vercel.app
 
 Reach me at `altanis_` on Discord!
 
-<!-- <img 
+<img 
   align="center" 
   src="https://github-readme-stats.vercel.app/api?username=Altanis&show_icons=true&theme=cobalt&count_private=true" 
   alt="account stats"
-  /> -->
+  />
 ![](https://komarev.com/ghpvc/?username=Altanis)
 
 <img 
