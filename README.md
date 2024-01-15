@@ -22,6 +22,7 @@ I'm Altanis, a high school sophomore who has a passion to code.
 For a brief overview of what I do, visit my [website](https://altanis.vercel.app)!
 
 Reach me at `altanis_` on Discord!
+
 ![](https://komarev.com/ghpvc/?username=Altanis)
 
 <img 
