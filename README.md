@@ -22,14 +22,13 @@ I'm Altanis, a high school sophomore who has a passion to code.
 For a brief overview of what I do, visit my [website](https://altanis.vercel.app)!
 
 Reach me at `altanis_` on Discord!
+![](https://komarev.com/ghpvc/?username=Altanis)
 
 <img 
   align="center" 
-  src="https://github-readme-stats.vercel.app/api?username=Altanis&show_icons=true&theme=cobalt&count_private=true" 
+  src="https://github-readme-stats.vercel.app/api?username=Altanis&show_icons=true&theme=radical&count_private=true" 
   alt="account stats"
   />
-![](https://komarev.com/ghpvc/?username=Altanis)
-
 <img 
   align="center" 
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Altanis&layout=compact&theme=cobalt&langs_count=2" 
