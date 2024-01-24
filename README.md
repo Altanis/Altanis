@@ -30,7 +30,10 @@ Reach me at `altanis_` on Discord!
   src="https://github-readme-stats.vercel.app/api?username=Altanis&show_icons=true&theme=radical&count_private=true" 
   alt="account stats"
   />
+
+<br>
+
 <img 
   align="center" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Altanis&layout=compact&theme=cobalt&langs_count=2" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Altanis&hide=css,html&theme=radical&layout=compact" 
   alt="top languages" />
