@@ -1,7 +1,0 @@
-const colors = ["text-red-400", "text-orange-400", "text-amber-400", "text-yellow-400", "text-lime-400", "text-green-400", "text-emerald-400", "text-teal-400", "text-cyan-400", "text-blue-400", "text-indigo-400", "text-violet-400", "text-purple-400", "text-fuchsia-400", "text-pink-400", "text-rose-400"];
-const borders = ['border-red-400', 'border-orange-400', 'border-amber-400', 'border-yellow-400', 'border-lime-400', 'border-green-400', 'border-emerald-400', 'border-teal-400', 'border-cyan-400', 'border-blue-400', 'border-indigo-400', 'border-violet-400', 'border-purple-400', 'border-fuchsia-400', 'border-pink-400', 'border-rose-400'];
-
-const hoverBorders = ['hover:border-red-400', 'hover:border-orange-400', 'hover:border-amber-400', 'hover:border-yellow-400', 'hover:border-lime-400', 'hover:border-green-400', 'hover:border-emerald-400', 'hover:border-teal-400', 'hover:border-cyan-400', 'hover:border-blue-400', 'hover:border-indigo-400', 'hover:border-violet-400', 'hover:border-purple-400', 'hover:border-fuchsia-400', 'hover:border-pink-400', 'hover:border-rose-400'];
-const hoverBackgrounds = ['hover:bg-red-400', 'hover:bg-orange-400', 'hover:bg-amber-400', 'hover:bg-yellow-400', 'hover:bg-lime-400', 'hover:bg-green-400', 'hover:bg-emerald-400', 'hover:bg-teal-400', 'hover:bg-cyan-400', 'hover:bg-blue-400', 'hover:bg-indigo-400', 'hover:bg-violet-400', 'hover:bg-purple-400', 'hover:bg-fuchsia-400', 'hover:bg-pink-400', 'hover:bg-rose-400'];
-
-module.exports = { colors, borders, hoverBorders, hoverBackgrounds };
