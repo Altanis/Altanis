@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 I'm Altanis, a high school sophomore who has a passion to code.
 
 - he/him
-- C and JS programmer, but know pretty much every language :)
+- Rust, C and JS programmer (but have worked with pretty much every mainstream language) :)
 
 For a brief overview of what I do, visit my [website](https://altanis.vercel.app)!
 
