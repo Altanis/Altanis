@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Altanis, a high school sophomore who has a passion to code. I have experience in many programming languages, but most notably in Rust, C and JS.
+I'm Altanis. I have experience in many programming languages, but most notably in Rust, C and JS.
 
 For a brief overview of what I do, visit my [website](https://altanis.vercel.app)!
 
